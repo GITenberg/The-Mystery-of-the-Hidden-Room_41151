@@ -1,0 +1,26 @@
+_repo: The-Mystery-of-the-Hidden-Room_41151
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harvey, Marion
+    gutenberg_agent_id: '41008'
+    url: http://www.gutenberg.org/2009/agents/41008
+description: ''
+gutenberg_issued: '2012-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Murder -- Fiction'
+title: The Mystery of the Hidden Room
+url: http://www.gutenberg.org/ebooks/41151
